@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "7c808e0d-216f-4f7e-87bf-bc361aa3196c"
+name: "gate-test-results"
+display_name: "Test Execution"
+description: "Human gate — pauses for user to run usability tests and paste results"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-gate-test-results"
+category: "shared"
+tags:
+  - "shared"
+  - "skill"
+contents:
+  skills: 1
+  prompts: 0
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 1
